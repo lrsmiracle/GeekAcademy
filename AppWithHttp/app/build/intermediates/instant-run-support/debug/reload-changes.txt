@@ -1,0 +1,11 @@
+CHANGED,H:\AndroidProject\AppWithHttp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\jikexueyuan\appwithhttp\ui\UtraFragment$2$1$override.class
+CHANGED,H:\AndroidProject\AppWithHttp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\jikexueyuan\appwithhttp\ui\UtraFragment$1$override.class
+CHANGED,H:\AndroidProject\AppWithHttp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\jikexueyuan\appwithhttp\ui\UtraFragment$4$override.class
+CHANGED,H:\AndroidProject\AppWithHttp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,H:\AndroidProject\AppWithHttp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\jikexueyuan\appwithhttp\ui\UtraFragment$3$override.class
+CHANGED,H:\AndroidProject\AppWithHttp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\jikexueyuan\appwithhttp\ui\UtraFragment$2$override.class
+CHANGED,H:\AndroidProject\AppWithHttp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\jikexueyuan\appwithhttp\ui\UtraFragment$6$override.class
+CHANGED,H:\AndroidProject\AppWithHttp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\jikexueyuan\appwithhttp\ui\UtraFragment$5$override.class
+CHANGED,H:\AndroidProject\AppWithHttp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\jikexueyuan\appwithhttp\ui\UtraFragment$MyListViewAdapter$override.class
+CHANGED,H:\AndroidProject\AppWithHttp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\jikexueyuan\appwithhttp\ui\UtraFragment$override.class
+CHANGED,H:\AndroidProject\AppWithHttp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\jikexueyuan\appwithhttp\ui\UtraFragment$MyListViewAdapter$ViewHolder$override.class
