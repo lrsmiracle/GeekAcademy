@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityPassInfo</string>
+    <string name="Input">请输入信息！</string>
+    <string name="Button">发送数据</string>
+</resources>
