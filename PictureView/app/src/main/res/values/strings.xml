@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PictureView</string>
+    <string name="view_picture">You can see a beautiful girl!</string>
+    <string name="viewPic">view picture</string>
+</resources>

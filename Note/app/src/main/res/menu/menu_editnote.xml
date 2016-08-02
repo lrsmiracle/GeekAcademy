@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.EditNoteActivity">
+    <item
+        android:id="@+id/action_cancel"
+        android:orderInCategory="90"
+        android:title="@string/action_cancel"
+        app:showAsAction="never" />
+</menu>

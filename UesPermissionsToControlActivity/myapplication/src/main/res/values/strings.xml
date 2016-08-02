@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="startPermissionAty">PermissionActivity</string>
+    <string name="PermissionTv">Click to test Permission control!</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PlaySoundAndLrc</string>
+    <string name="startplay">Click to play</string>
+</resources>

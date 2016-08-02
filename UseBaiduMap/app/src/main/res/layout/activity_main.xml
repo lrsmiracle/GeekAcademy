@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.jikexueyuan.usebaidumap.MainActivity">
+
+    <com.baidu.mapapi.map.MapView
+        android:id="@+id/bmapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:background="#5041d687"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/userContainer"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:orientation="horizontal"
+            android:gravity="center"
+            >
+
+            <ImageView
+                android:layout_width="100px"
+                android:layout_height="100px"
+                android:src="@mipmap/head1"
+                />
+        </LinearLayout>
+        <Button
+            android:layout_width="80px"
+            android:layout_height="80px"
+            android:layout_margin="10dp"
+            android:background="@drawable/button_change"
+            android:id="@+id/shareLocation"
+            />
+    </LinearLayout>
+
+
+</FrameLayout>
