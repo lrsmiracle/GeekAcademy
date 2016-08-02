@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contact</string>
+    <string name="app_name_English">Contact</string>
+    <string name="addContact">AddContacter</string>
+    <string name="name">Name:</string>
+    <string name="number">Number:</string>
+    <string name="pleaseChouse">Please Chouse</string>
+    <string name="call">Call</string>
+    <string name="sendMessage">Send Message</string>
+    <string name="confirm">confirm</string>
+    <string name="cancel">cancel</string>
+    <string name="InputContacter">Please input name!</string>
+    <string name="InputPhoneNumber">Please input phonenumber!</string>
+    <string name="cancelAction">Cancel action!</string>
+    <string name="success">Add contacter success!</string>
+</resources>

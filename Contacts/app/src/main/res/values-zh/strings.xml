@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="app_name_English">通讯录</string>
+    <string name="addContact">添加联系人</string>
+    <string name="name">姓名：</string>
+    <string name="number">电话：</string>
+    <string name="pleaseChouse">请选择</string>
+    <string name="call">打电话</string>
+    <string name="sendMessage">发短信</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="InputContacter">请输入联系人！</string>
+    <string name="InputPhoneNumber">请输入电话号码！</string>
+    <string name="cancelAction">您取消了添加操作！</string>
+    <string name="success">成功添加联系人！</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AIDLcontroller</string>
+    <string name="testAIDL">测试AIDL客户端</string>
+    <string name="showText">服务器发送过来的数据在这里显示...</string>
+    <string name="cancelBind">取消绑定</string>
+    <string name="bindService">绑定服务</string>
+</resources>

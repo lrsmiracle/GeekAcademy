@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AIDLconnectToOther</string>
+    <string name="testAIDL">测试AIDL服务端</string>
+    <string name="testAIDLtext">服务接收数据将在这里显示...</string>
+    <string name="cancel">取消绑定</string>
+    <string name="bind">绑定服务</string>
+</resources>
